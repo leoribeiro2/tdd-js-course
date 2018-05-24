@@ -1,4 +1,3 @@
-import fetch from 'node-fetch';
 import { API_URL } from './config';
 import { toJson } from './utils';
 
